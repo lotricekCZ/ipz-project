@@ -1,6 +1,6 @@
 import RPi.GPIO as GPIO
 import time
-from .utils import *
+# from utils import *
 MOVE = 0
 METEO = 1
 
