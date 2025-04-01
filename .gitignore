@@ -1,0 +1,7 @@
+global-env/
+env/
+*.mp4
+*.pyc
+.gitignore
+.vscode/settings.json
+*.jpg
